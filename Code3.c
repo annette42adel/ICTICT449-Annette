@@ -7,7 +7,7 @@ void	*ft_calloc(size_t count, size_t size)
 
 	if (count == 0 || size == 0)
 	{
-		count = 1;
+		count = 0;
 		size = 1;
 	}
 	b = count * size;
