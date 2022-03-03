@@ -18,4 +18,4 @@ void	*ft_calloc(size_t count, size_t size)
 		ft_bzero(p, b);
 	return (p);
 }
-/*This function is hard*/
+/* This function is hard*/

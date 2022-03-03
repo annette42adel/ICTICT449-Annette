@@ -24,4 +24,4 @@ int	ft_atoi(const char *str)
 	}
 	return (res * neg);
 }
-/*This is a comment*/
+/* This is a comment*/
